@@ -10,7 +10,7 @@ Fitur Utama :
 - Control terhadap volume setiap track
 - Fitur Save & Load Track
 
-Cara Penggunaan :
+# Cara Penggunaan :
 
 1. Buka aplikasi Digital Loopstation
 2.  Tekan tombol Record untuk mulai merekam suara.
