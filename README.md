@@ -21,12 +21,11 @@ Fitur Utama :
 4. Untuk memutar salah satu track, tekan tombol Play pada track tersebut.
 5. Tekan tombol Play All untuk memutar semua track yang berisi rekaman secara bersamaan.
 6. Tekan tombol Stop pada track tertentu untuk menghentikan pemutaran track tersebut.
-7. Tekan tombol Stop All untuk menghentikan semua track sekaligus.
-8. Tekan tombol Clear pada track yang ingin dihapus.
+7. Tekan tombol Clear pada track yang ingin dihapus.
     - Track tersebut akan kembali kosong dan siap menerima rekaman baru.
-9. Tekan tombol Clear All untuk menghapus seluruh rekaman pada semua track.
-10. Setiap track memiliki kontrol volume slider.
+8. Tekan tombol Clear All untuk menghapus seluruh rekaman pada semua track.
+9. Setiap track memiliki kontrol volume slider.
     - Geser slider ke kiri untuk mengecilkan volume, ke kanan untuk membesarkan volume.
     - Pengaturan volume ini hanya mempengaruhi track terkait.
-11. Tekan tombol Save untuk menyimpan seluruh konfigurasi dan rekaman track.
-12. Tekan tombol Load untuk membuka file proyek yang telah disimpan sebelumnya.
+10. Tekan tombol Save untuk menyimpan seluruh konfigurasi dan rekaman track.
+11. Tekan tombol Load untuk membuka file proyek yang telah disimpan sebelumnya.
