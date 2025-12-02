@@ -1,6 +1,6 @@
 # Digital Loopstation
 
-Aplikasi ini adalah digital loopstation sederhana yang memungkinkan pengguna merekam suara, memutar ulang, dan membuat lapisan (layer) audio secara mudah. Dengan tampilan yang sederhana namun intuitif, aplikasi ini dirancang agar pengguna dapat fokus pada kreativitas tanpa harus memikirkan hal teknis.
+Digital Loopstation adalah aplikasi sederhana yang memungkinkan pengguna merekam suara, memutar ulang, dan membuat lapisan (layer) audio secara mudah. Dengan tampilan yang sederhana namun intuitif, aplikasi ini dirancang agar pengguna dapat fokus pada kreativitas tanpa harus memikirkan hal teknis.
 
 Fitur Utama :
 
